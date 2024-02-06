@@ -106,6 +106,81 @@
       },
       {
         "organization": {
+          "name": "NTT DATA Europe & Latam",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/06/eaf94be5-d682-4a4e-a394-04ddaf3c6fae_ntt_data_europe_lata.jpg",
+            "alt": "ntt_data_europe_latam_logo.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Estudiante en prácticas - Becario",
+            "startDate": "2022-03-01",
+            "finishDate": "2022-11-01",
+            "challenges": [
+              {
+                "description": "He trabajado como estudiante en el periodo de formación FP Dual trabajando con Lenguajes de programación como JAVA, CSS, HTML, XML, JavaScript, SQL, UNIX, SOAP y Herramientas como Eclipse, TOAD, Putty, SVN, GIT, Teams, SONAR, ALM, otras herramientas propias de cliente "
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Eclipse",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "SOAP",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "SVN",
+                "type": "technology"
+              },
+              {
+                "name": "SonarQube",
+                "type": "technology"
+              },
+              {
+                "name": "TOAD",
+                "type": "technology"
+              },
+              {
+                "name": "Unix",
+                "type": "technology"
+              },
+              {
+                "name": "XML",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "NETHIVE CONSULTING",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/06/040c21f8-b059-4074-9a59-f47f43a5b679_linkedin-photo-53610.linkedin-photo-53610",
