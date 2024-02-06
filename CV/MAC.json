@@ -25,6 +25,10 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/adri%C3%A1n-l%C3%B3pez-desarrollo-web"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/AdrianLPDev"
       }
     ]
   },
@@ -332,16 +336,32 @@
     "studies": [
       {
         "studyType": "officialDegree",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "Ciclo Formativo de Grado Medio, Sistemas Microinformáticos y Redes",
-        "startDate": "2019-06-01",
+        "startDate": "2016-09-01",
         "institution": {
           "name": "IES Galileo",
+          "description": "\n\n    Técnico en Sistemas Microinformáticos y Redes.\n\n    - Manejo de máquinas virtuales.\n    - Manejo y configuración de Sistemas operativos (Windows, Ubuntu, Debian) como cliente y servidor.\n    - Nociones básicas sobre redes informáticas.\n    - Montaje y mantenimiento de ordenadores.\n    - Prevención de Riesgos Laborales.\n    - Aplicaciones Web (HTML y CSS).\n    - Aplicaciones ofimáticas (Word, Excel, PowerPoint, Access).\n    - Seguridad informática.\n    - Servicios en red.Técnico en Sistemas Microinformáticos y Redes. - Manejo de máquinas virtuales. - Manejo y configuración de Sistemas operativos (Windows, Ubuntu, Debian) como cliente y servidor. - Nociones básicas sobre redes informáticas. - Montaje y mantenimiento de ordenadores. - Prevención de Riesgos Laborales. - Aplicaciones Web (HTML y CSS). - Aplicaciones ofimáticas (Word, Excel, PowerPoint, Access). - Seguridad informática. - Servicios en red.",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/06/0c58640c-8cb2-47c8-af88-ae4b10ec4fe5_linkedin-photo-53610.linkedin-photo-53610",
             "alt": "24/02/06/0c58640c-8cb2-47c8-af88-ae4b10ec4fe5_linkedin-photo-53610.linkedin-photo-53610"
           }
-        }
+        },
+        "finishDate": "2019-06-01",
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft Office 365",
+            "type": "technology"
+          }
+        ]
       },
       {
         "studyType": "officialDegree",
@@ -416,6 +436,10 @@
         {
           "URL": "https://linkedin.com/in/adri%C3%A1n-l%C3%B3pez-desarrollo-web",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/AdrianLPDev",
+          "type": "github"
         }
       ],
       "contactMails": [
