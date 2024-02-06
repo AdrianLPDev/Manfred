@@ -345,16 +345,68 @@
       },
       {
         "studyType": "officialDegree",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "Ciclo Formativo de Grado Superior, Desarrollo de aplicaciones web",
-        "startDate": "2022-06-01",
+        "startDate": "2019-09-01",
         "institution": {
           "name": "IES Galileo",
+          "description": "Técnico Superior de Desarrollador de Aplicaciones Web.\n\n- Bases de datos (SQL) (Oracle).\n- Programación en Java.\n- Sistemas informáticos (Nociones básicas de sistemas informáticos y redes, uso básico de PowerShell, nociones básicas de redes...).\n- Lenguaje de Marcas (HTML, XHTML, XML, CSS).\n- Desarrollo de Aplicaciones Web entorno Cliente (JavaScript).\n- Desarrollo de Aplicaciones Web entorno Servidor (PHP).\n- Despliegue de Aplicaciones Web.\n- Diseño Web.",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/06/643f51a7-0f8e-4f22-8a2f-bc923d64ea42_linkedin-photo-53610.linkedin-photo-53610",
             "alt": "24/02/06/643f51a7-0f8e-4f22-8a2f-bc923d64ea42_linkedin-photo-53610.linkedin-photo-53610"
           }
-        }
+        },
+        "finishDate": "2022-06-01",
+        "linkedCompetences": [
+          {
+            "name": "API",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "Oracle",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "PHPMyAdmin",
+            "type": "technology"
+          },
+          {
+            "name": "PowerShell",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "XML",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
