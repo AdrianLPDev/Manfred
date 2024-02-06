@@ -42,10 +42,36 @@
           {
             "name": "Conversational Junior Engineer",
             "startDate": "2023-08-01",
-            "finishDate": "2024-02-28",
+            "finishDate": "2024-01-01",
             "challenges": [
               {
                 "description": "Empezando en el equipo de Digital Experience para desarrollar Asistentes Conversacionales con bots de tipo chatbots, voice chat, en canales webchat, app chat (Whatsapp), etc...\n\nHe trabajado con las siguientes tecnologías:\n- Java\n- Mockito (Framework de Java)\n- Javascript\n\nY he utilizado las siguientes herramientas:\n- Jenkins\n- Fortify\n- Postman\n- MIRO/FIGMA\n- Git + Github"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Mocha",
+                "type": "technology"
+              },
+              {
+                "name": "Mockito",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "chai",
+                "type": "technology"
               }
             ]
           }
