@@ -79,6 +79,33 @@
       },
       {
         "organization": {
+          "name": "NTT DATA Europe & Latam",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/06/0d5cb35d-fbce-49f7-b9e1-8294786ea5e9_ntt_data_europe_lata.jpg",
+            "alt": "ntt_data_europe_latam_logo.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": " Solutions Assistant Junior Designer",
+            "startDate": "2022-12-01",
+            "finishDate": "2023-07-01",
+            "challenges": [
+              {
+                "description": "Diseñador técnico de programas y módulos con la herramienta del cliente (ARIS - Telefónica), desarrollo y pensamiento de la parte lógica del desarrollo, definir pruebas intraproceso y redactar toda la documentación técnica "
+              }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft Office 365",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "NETHIVE CONSULTING",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/06/040c21f8-b059-4074-9a59-f47f43a5b679_linkedin-photo-53610.linkedin-photo-53610",
