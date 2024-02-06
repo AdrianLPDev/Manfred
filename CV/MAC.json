@@ -252,6 +252,12 @@
       },
       {
         "skill": {
+          "name": "Eclipse",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "HTML",
           "type": "technology"
         }
@@ -270,6 +276,24 @@
       },
       {
         "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Netbeans",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "PHP",
           "type": "technology"
         }
@@ -283,6 +307,24 @@
       {
         "skill": {
           "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLite",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
           "type": "technology"
         }
       }
