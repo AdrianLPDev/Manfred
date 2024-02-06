@@ -40,7 +40,7 @@
         },
         "roles": [
           {
-            "name": "Conversational Junior Engineer",
+            "name": "Conversational - Junior Engineer",
             "startDate": "2023-08-01",
             "finishDate": "2024-02-01",
             "challenges": [
@@ -50,11 +50,35 @@
             ],
             "competences": [
               {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "Fortify",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
                 "name": "JAVA",
                 "type": "technology"
               },
               {
                 "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Miro",
                 "type": "technology"
               },
               {
@@ -67,6 +91,10 @@
               },
               {
                 "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Postman",
                 "type": "technology"
               },
               {
