@@ -1,0 +1,365 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Adrián",
+      "surnames": "López",
+      "title": "Junior Engineer",
+      "description": "He trabajado 2 años como desarrollador Web en distintos proyectos, trabajando con distintas tecnologías, metodologías y formas de trabajo. Tengo experiencia en desarrollo web como front-end developer, tengo experiencia en la realización de diseños lógicos y estructuras lógicas previas al desarrollo y he trabajado para el desarrollo de proyectos con IA's por la parte de asistentes conversacionales.\n\nComo desarrollador web, tengo aptitudes de y experiencia en lenguajes como Java, Javascript, PHP, SQL y otros que no se toman como lenguajes de programación (HTML, CSS, XML y XHTML). También he utilizado la biblioteca de jQuery para JS. He utilizado Node.js durante mi estancia en proyectos de Asistentes Conversacionales.\n\nEn proyectos personales he utilizado frameworks y librerías como:\n- Axios (JS)\n- Tailwind (CSS)\n- Astro\n- Svelte\n- Cohere-ai (API - IA)\n\nHe trabajado por 3 meses como becario técnico en sistemas microinformáticos y redes proporcionando soluciones informáticas (un poco el trabajo de IT de/en una empresa). Parte de las soluciones informáticas proporcionadas consistían en porporcionar asistencia presencial o telemática para resolver cualquier tipo de problema con equipos informáticos o redes que hubiese, preparación de equipos informáticos para su venta, instalación de equipos informáticos de forma presencial, entre otras cosas.\n\nTengo skills sociales y de trabajo en equipo ya que he trabajado en organizaciones (organizando torneos o ayudando a organizar eventos) así como predisposición de liderazgo (gracias a la experiencia de la organización y llevándola como \"cabecilla\") que me pueden servir en el ámbito laboral. Suelo ser independiente y tengo iniciativa de aprendizaje así como estar abierto en un futuro al obtener los conocimientos necesarios a la enseñanza o ayuda.\n\nTengo un nivel de inglés intermedio sin certificar y carnet de conducir tipo B.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/06/0dbd0688-f54d-438f-b432-cd4a29bc04db_linkedin-photo-53610.linkedin-photo-53610",
+        "alt": "24/02/06/0dbd0688-f54d-438f-b432-cd4a29bc04db_linkedin-photo-53610.linkedin-photo-53610"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJk27GCIxyRw0R72uiHNSS_7M)",
+        "country": "España",
+        "region": "Castilla y León",
+        "municipality": "Valladolid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/adri%C3%A1n-l%C3%B3pez-desarrollo-web"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "NTT DATA Europe & Latam",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/06/ef46499e-e785-44e5-a920-7fc652cf7f6e_linkedin-photo-53610.linkedin-photo-53610",
+            "alt": "24/02/06/ef46499e-e785-44e5-a920-7fc652cf7f6e_linkedin-photo-53610.linkedin-photo-53610"
+          }
+        },
+        "roles": [
+          {
+            "name": "Conversational Junior Engineer",
+            "startDate": "2023-08-01",
+            "finishDate": "2024-02-28",
+            "challenges": [
+              {
+                "description": "Empezando en el equipo de Digital Experience para desarrollar Asistentes Conversacionales con bots de tipo chatbots, voice chat, en canales webchat, app chat (Whatsapp), etc...\n\nHe trabajado con las siguientes tecnologías:\n- Java\n- Mockito (Framework de Java)\n- Javascript\n\nY he utilizado las siguientes herramientas:\n- Jenkins\n- Fortify\n- Postman\n- MIRO/FIGMA\n- Git + Github"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "NETHIVE CONSULTING",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/06/040c21f8-b059-4074-9a59-f47f43a5b679_linkedin-photo-53610.linkedin-photo-53610",
+            "alt": "24/02/06/040c21f8-b059-4074-9a59-f47f43a5b679_linkedin-photo-53610.linkedin-photo-53610"
+          }
+        },
+        "roles": [
+          {
+            "name": "Estudiante en prácticas",
+            "startDate": "2019-03-01",
+            "finishDate": "2019-06-30",
+            "challenges": [
+              {
+                "description": "Durante mi periodo de prácticas realicé el trabajo como becario de:\n- Instalación de Sistemas Operativos.\n- Soluciones informáticas de forma presencial u online.\n- Mantenimiento de ordenadores.\n- Manejo y configuración de Sistemas operativos (Windows, Ubuntu, Debian) como cliente y servidor.\n- Instalación y uso de dispositivos NAS.\n- Mantenimiento de servidores y sus redes.\n- Manejo y uso de editores de imagen (Photoshop).\n- Trabajo de cara al público, sea de forma presencial, de forma telefónica u online.\n- Manejo de máquinas virtuales.\n- Manejo de Aplicaciones Ofimáticas (Word, Excel, PowerPoint, Access)."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHPMyAdmin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Ciclo Formativo de Grado Medio, Sistemas Microinformáticos y Redes",
+        "startDate": "2019-06-01",
+        "institution": {
+          "name": "IES Galileo",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/06/0c58640c-8cb2-47c8-af88-ae4b10ec4fe5_linkedin-photo-53610.linkedin-photo-53610",
+            "alt": "24/02/06/0c58640c-8cb2-47c8-af88-ae4b10ec4fe5_linkedin-photo-53610.linkedin-photo-53610"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Ciclo Formativo de Grado Superior, Desarrollo de aplicaciones web",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "IES Galileo",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/06/643f51a7-0f8e-4f22-8a2f-bc923d64ea42_linkedin-photo-53610.linkedin-photo-53610",
+            "alt": "24/02/06/643f51a7-0f8e-4f22-8a2f-bc923d64ea42_linkedin-photo-53610.linkedin-photo-53610"
+          }
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/adri%C3%A1n-l%C3%B3pez-desarrollo-web",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "krako0nnn@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": "AngularJS",
+          "type": "technology"
+        },
+        {
+          "name": "Astro",
+          "type": "technology"
+        },
+        {
+          "name": "Bootstrap",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "DBeaver",
+          "type": "technology"
+        },
+        {
+          "name": "Eclipse",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "JSON",
+          "type": "technology"
+        },
+        {
+          "name": "JSP",
+          "type": "technology"
+        },
+        {
+          "name": "JUnit",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Jest",
+          "type": "technology"
+        },
+        {
+          "name": "Mocha",
+          "type": "technology"
+        },
+        {
+          "name": "Mockito",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
+          "name": "NPM",
+          "type": "technology"
+        },
+        {
+          "name": "Netbeans",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "Oracle",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "PHPMyAdmin",
+          "type": "technology"
+        },
+        {
+          "name": "Preact",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
+          "name": "SQLite",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
+          "type": "technology"
+        },
+        {
+          "name": "Svelte",
+          "type": "technology"
+        },
+        {
+          "name": "Tailwind",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        },
+        {
+          "name": "Webflux",
+          "type": "technology"
+        },
+        {
+          "name": "chai",
+          "type": "technology"
+        },
+        {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "TOAD",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "JAVA",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Mi trabajo ideal sería en el que pueda seguir desarrollando mis conocimientos y aprender tecnologías nuevas mientras pongo a prueba lo que sé. Que exista un traspaso de conocimientos constante entre compañeros ya que es una manera activa y buena de aprender y seguir en constante aprendizaje. Que sienta que mi trabajo sirve a alguien o de algo también ayudaría. Tener un horario más o menos flexible sería un punto positivo."
+  }
+}
